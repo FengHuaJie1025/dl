@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: net.sf.image4j:image4j:0.7zensight1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/sf/image4j/image4j/0.7zensight1/image4j-0.7zensight1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/net/sf/image4j/image4j/0.7zensight1/image4j-0.7zensight1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/sf/image4j/image4j/0.7zensight1/image4j-0.7zensight1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

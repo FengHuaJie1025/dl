@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mjweb" />
+        <module name="gcapp" />
+        <module name="common" />
+        <module name="gcweb" />
+        <module name="register" />
+        <module name="mjapp" />
+        <module name="ci" />
+        <module name="wyapp" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ci" target="1.8" />
+      <module name="common" target="1.8" />
+      <module name="dl" target="1.8" />
+      <module name="gcapp" target="1.8" />
+      <module name="gcweb" target="1.8" />
+      <module name="mjapp" target="1.8" />
+      <module name="mjweb" target="8" />
+      <module name="register" target="1.8" />
+      <module name="wyapp" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="ci" options="" />
+      <module name="common" options="" />
+      <module name="dl" options="-parameters" />
+      <module name="gcapp" options="" />
+      <module name="gcweb" options="" />
+      <module name="mjapp" options="" />
+      <module name="mjweb" options="" />
+      <module name="register" options="" />
+      <module name="wyapp" options="" />
+    </option>
+  </component>
+</project>

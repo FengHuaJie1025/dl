@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ci/ci.iml" filepath="$PROJECT_DIR$/ci/ci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dl.iml" filepath="$PROJECT_DIR$/dl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gcapp/gcapp.iml" filepath="$PROJECT_DIR$/gcapp/gcapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gcweb/gcweb.iml" filepath="$PROJECT_DIR$/gcweb/gcweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mjapp/mjapp.iml" filepath="$PROJECT_DIR$/mjapp/mjapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mjweb/mjweb.iml" filepath="$PROJECT_DIR$/mjweb/mjweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/register/register.iml" filepath="$PROJECT_DIR$/register/register.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wyapp/wyapp.iml" filepath="$PROJECT_DIR$/wyapp/wyapp.iml" />
+    </modules>
+  </component>
+</project>
