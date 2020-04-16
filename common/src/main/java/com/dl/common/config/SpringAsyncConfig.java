@@ -17,6 +17,7 @@ import java.util.concurrent.atomic.AtomicLong;
  * 以某个名字作为前缀配置信息，然后将读到配置信息，通过类
  * 中的set方法赋值属性。
  */
+
 @Slf4j
 @Setter
 @ConfigurationProperties("async-thread-pool")
